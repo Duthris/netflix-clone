@@ -1,3 +1,19 @@
+# This is a Netflix clone project to improve javascript react knowledge. Axios is used for using APIs came from themoviedb backend. 
+
+# You can test this clone in a live hosting which is hosted by google firebase  => [Duthris Netflix Clone](https://duthris-netflix-clone.web.app). 
+
+# It may take some time to load page just for the first time due to host. Just for now, NETFLIX ORIGINALS have the trailer pop-up when on click.
+
+![Index](https://user-images.githubusercontent.com/71668283/129641918-7a33f8ca-0262-42c0-a7c7-f9f6991d7511.png)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
