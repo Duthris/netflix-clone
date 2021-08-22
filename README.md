@@ -4,10 +4,8 @@
 
 # It may take some time to load page just for the first time due to host. Just for now, NETFLIX ORIGINALS have the trailer pop-up when on click.
 
-![Index](https://user-images.githubusercontent.com/71668283/129641918-7a33f8ca-0262-42c0-a7c7-f9f6991d7511.png)
-
-
-
+![Index1](https://user-images.githubusercontent.com/71668283/130363508-a061216e-9dcb-4a52-ab0b-85d84201f0f6.png)
+![Index2](https://user-images.githubusercontent.com/71668283/130363509-96eeea2b-3c14-4caf-8c8d-e2c5831b1292.png)
 
 
 
