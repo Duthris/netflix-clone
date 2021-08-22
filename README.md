@@ -1,4 +1,4 @@
-# This is a Netflix clone project to improve javascript react knowledge. Axios is used for using APIs came from themoviedb backend. 
+# This is a Demo Youtube Downloader project to improve javascript react knowledge. Axios is used for using API calls. 
 
 # You can test this clone in a live hosting which is hosted by google firebase  => [Duthris Netflix Clone](https://duthris-netflix-clone.web.app). 
 
