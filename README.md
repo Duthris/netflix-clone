@@ -1,6 +1,6 @@
 # This is a Netflix clone project to improve javascript react knowledge. Axios is used for using APIs came from themoviedb backend. 
 
-# You can test this clone in a live hosting which is hosted by google firebase  => [Duthris Netflix Clone](https://duthris-netflix-clone.web.app). 
+# You can test this clone in a live hosting which is hosted by google firebase  => [Duthris Netflix Clone](https://netflix-clone.duthris.com). 
 
 # It may take some time to load page just for the first time due to host. Just for now, NETFLIX ORIGINALS have the trailer pop-up when on click.
 
